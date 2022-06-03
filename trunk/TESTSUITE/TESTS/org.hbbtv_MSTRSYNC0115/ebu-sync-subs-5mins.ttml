@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:ebuttm="urn:ebu:tt:metadata"
+    xmlns:ebutts="urn:ebu:tt:style"
+    xml:lang="en"
+    xml:space="preserve"
+    ttp:timeBase="media"
+    ttp:cellResolution="11 20">
+    <head>
+        <metadata>
+            <ttm:title>EBU-TT-D Synchronised Subtitles</ttm:title>
+            <ebuttm:documentMetadata>
+                <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+                <ebuttm:authoredFrameRate>25</ebuttm:authoredFrameRate>
+            </ebuttm:documentMetadata>
+        </metadata>
+        <styling>
+            <!-- White text, white background !-->
+            <style xml:id="ww" tts:backgroundColor="#FFFFFF" tts:color="#FFFFFF" tts:fontSize="720%"/>
+        </styling>
+        <layout>
+            <region xml:id="r0" tts:origin="62% 72%" tts:extent="38% 28%" tts:overflow="hidden"/>
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p xml:id="s0" begin="000:00:00.000" end="000:00:01.000" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s1" begin="000:00:03.000" end="000:00:08.480" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s2" begin="000:00:10.480" end="000:00:12.480" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s3" begin="000:00:14.480" end="000:00:19.960" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s4" begin="000:00:21.960" end="000:00:23.960" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s5" begin="000:00:25.960" end="000:00:31.440" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s6" begin="000:00:33.440" end="000:00:35.440" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s7" begin="000:00:37.440" end="000:00:42.920" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s8" begin="000:00:44.920" end="000:00:46.920" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s9" begin="000:00:48.920" end="000:00:54.400" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s10" begin="000:00:56.400" end="000:00:58.400" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s11" begin="000:01:00.400" end="000:01:05.880" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s12" begin="000:01:07.880" end="000:01:09.880" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s13" begin="000:01:11.880" end="000:01:17.360" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s14" begin="000:01:19.360" end="000:01:21.360" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s15" begin="000:01:23.360" end="000:01:28.840" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s16" begin="000:01:30.840" end="000:01:32.840" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s17" begin="000:01:34.840" end="000:01:40.320" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s18" begin="000:01:42.320" end="000:01:44.320" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s19" begin="000:01:46.320" end="000:01:51.800" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s20" begin="000:01:53.800" end="000:01:55.800" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s21" begin="000:01:57.800" end="000:02:03.280" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s22" begin="000:02:05.280" end="000:02:07.280" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s23" begin="000:02:09.280" end="000:02:14.760" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s24" begin="000:02:16.760" end="000:02:18.760" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s25" begin="000:02:20.760" end="000:02:26.240" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s26" begin="000:02:28.240" end="000:02:30.240" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s27" begin="000:02:32.240" end="000:02:37.720" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s28" begin="000:02:39.720" end="000:02:41.720" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s29" begin="000:02:43.720" end="000:02:49.200" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s30" begin="000:02:51.200" end="000:02:53.200" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s31" begin="000:02:55.200" end="000:03:00.680" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s32" begin="000:03:02.680" end="000:03:04.680" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s33" begin="000:03:06.680" end="000:03:12.160" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s34" begin="000:03:14.160" end="000:03:16.160" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s35" begin="000:03:18.160" end="000:03:23.640" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s36" begin="000:03:25.640" end="000:03:27.640" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s37" begin="000:03:29.640" end="000:03:35.120" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s38" begin="000:03:37.120" end="000:03:39.120" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s39" begin="000:03:41.120" end="000:03:46.600" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s40" begin="000:03:48.600" end="000:03:50.600" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s41" begin="000:03:52.600" end="000:03:58.080" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s42" begin="000:04:00.080" end="000:04:02.080" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s43" begin="000:04:04.080" end="000:04:09.560" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s44" begin="000:04:11.560" end="000:04:13.560" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s45" begin="000:04:15.560" end="000:04:21.040" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s46" begin="000:04:23.040" end="000:04:25.040" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s47" begin="000:04:27.040" end="000:04:32.520" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s48" begin="000:04:34.520" end="000:04:36.520" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s49" begin="000:04:38.520" end="000:04:44.000" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s50" begin="000:04:46.000" end="000:04:48.000" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s51" begin="000:04:50.000" end="000:04:55.480" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s52" begin="000:04:57.480" end="000:04:59.480" region="r0"><span style="ww">XX</span></p>
+        </div>
+    </body>
+</tt>

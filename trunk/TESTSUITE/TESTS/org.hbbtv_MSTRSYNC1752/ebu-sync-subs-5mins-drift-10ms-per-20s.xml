@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:ebuttm="urn:ebu:tt:metadata"
+    xmlns:ebutts="urn:ebu:tt:style"
+    xml:lang="en"
+    xml:space="preserve"
+    ttp:timeBase="media"
+    ttp:cellResolution="11 20">
+    <head>
+        <metadata>
+            <ttm:title>EBU-TT-D Synchronised Subtitles</ttm:title>
+            <ebuttm:documentMetadata>
+                <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+                <ebuttm:authoredFrameRate>25</ebuttm:authoredFrameRate>
+            </ebuttm:documentMetadata>
+        </metadata>
+        <styling>
+            <!-- White text, white background !-->
+            <style xml:id="ww" tts:backgroundColor="#FFFFFF" tts:color="#FFFFFF" tts:fontSize="720%"/>
+        </styling>
+        <layout>
+            <region xml:id="r0" tts:origin="62% 72%" tts:extent="38% 28%" tts:overflow="hidden"/>
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p xml:id="s0" begin="000:00:00.000" end="000:00:00.080" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s1" begin="000:00:00.960" end="000:00:01.081" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s2" begin="000:00:01.961" end="000:00:02.081" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s3" begin="000:00:03.962" end="000:00:04.082" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s4" begin="000:00:05.963" end="000:00:06.083" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s5" begin="000:00:08.964" end="000:00:09.085" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s6" begin="000:00:10.965" end="000:00:11.086" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s7" begin="000:00:11.966" end="000:00:12.086" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s8" begin="000:00:12.966" end="000:00:13.087" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s9" begin="000:00:14.967" end="000:00:15.088" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s10" begin="000:00:16.968" end="000:00:17.089" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s11" begin="000:00:19.970" end="000:00:20.090" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s12" begin="000:00:21.971" end="000:00:22.091" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s13" begin="000:00:22.971" end="000:00:23.092" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s14" begin="000:00:23.972" end="000:00:24.092" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s15" begin="000:00:25.973" end="000:00:26.093" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s16" begin="000:00:27.974" end="000:00:28.094" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s17" begin="000:00:30.975" end="000:00:31.096" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s18" begin="000:00:32.976" end="000:00:33.097" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s19" begin="000:00:33.977" end="000:00:34.097" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s20" begin="000:00:34.977" end="000:00:35.098" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s21" begin="000:00:36.978" end="000:00:37.099" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s22" begin="000:00:38.979" end="000:00:39.100" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s23" begin="000:00:41.981" end="000:00:42.101" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s24" begin="000:00:43.982" end="000:00:44.102" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s25" begin="000:00:44.982" end="000:00:45.103" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s26" begin="000:00:45.983" end="000:00:46.103" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s27" begin="000:00:47.984" end="000:00:48.104" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s28" begin="000:00:49.985" end="000:00:50.105" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s29" begin="000:00:52.986" end="000:00:53.107" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s30" begin="000:00:54.987" end="000:00:55.108" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s31" begin="000:00:55.988" end="000:00:56.108" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s32" begin="000:00:56.988" end="000:00:57.109" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s33" begin="000:00:58.989" end="000:00:59.110" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s34" begin="000:01:00.990" end="000:01:01.111" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s35" begin="000:01:03.992" end="000:01:04.112" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s36" begin="000:01:05.993" end="000:01:06.113" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s37" begin="000:01:06.993" end="000:01:07.114" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s38" begin="000:01:07.994" end="000:01:08.114" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s39" begin="000:01:09.995" end="000:01:10.115" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s40" begin="000:01:11.996" end="000:01:12.116" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s41" begin="000:01:14.997" end="000:01:15.118" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s42" begin="000:01:16.998" end="000:01:17.119" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s43" begin="000:01:17.999" end="000:01:18.119" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s44" begin="000:01:18.999" end="000:01:19.120" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s45" begin="000:01:21.000" end="000:01:21.121" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s46" begin="000:01:23.001" end="000:01:23.122" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s47" begin="000:01:26.003" end="000:01:26.123" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s48" begin="000:01:28.004" end="000:01:28.124" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s49" begin="000:01:29.004" end="000:01:29.125" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s50" begin="000:01:30.005" end="000:01:30.125" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s51" begin="000:01:32.006" end="000:01:32.126" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s52" begin="000:01:34.007" end="000:01:34.127" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s53" begin="000:01:37.008" end="000:01:37.129" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s54" begin="000:01:39.009" end="000:01:39.130" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s55" begin="000:01:40.010" end="000:01:40.130" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s56" begin="000:01:41.010" end="000:01:41.131" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s57" begin="000:01:43.011" end="000:01:43.132" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s58" begin="000:01:45.012" end="000:01:45.133" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s59" begin="000:01:48.014" end="000:01:48.134" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s60" begin="000:01:50.015" end="000:01:50.135" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s61" begin="000:01:51.015" end="000:01:51.136" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s62" begin="000:01:52.016" end="000:01:52.136" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s63" begin="000:01:54.017" end="000:01:54.137" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s64" begin="000:01:56.018" end="000:01:56.138" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s65" begin="000:01:59.019" end="000:01:59.140" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s66" begin="000:02:01.020" end="000:02:01.141" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s67" begin="000:02:02.021" end="000:02:02.141" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s68" begin="000:02:03.021" end="000:02:03.142" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s69" begin="000:02:05.022" end="000:02:05.143" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s70" begin="000:02:07.023" end="000:02:07.144" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s71" begin="000:02:10.025" end="000:02:10.145" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s72" begin="000:02:12.026" end="000:02:12.146" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s73" begin="000:02:13.026" end="000:02:13.147" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s74" begin="000:02:14.027" end="000:02:14.147" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s75" begin="000:02:16.028" end="000:02:16.148" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s76" begin="000:02:18.029" end="000:02:18.149" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s77" begin="000:02:21.030" end="000:02:21.151" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s78" begin="000:02:23.031" end="000:02:23.152" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s79" begin="000:02:24.032" end="000:02:24.152" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s80" begin="000:02:25.032" end="000:02:25.153" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s81" begin="000:02:27.033" end="000:02:27.154" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s82" begin="000:02:29.034" end="000:02:29.155" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s83" begin="000:02:32.036" end="000:02:32.156" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s84" begin="000:02:34.037" end="000:02:34.157" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s85" begin="000:02:35.037" end="000:02:35.158" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s86" begin="000:02:36.038" end="000:02:36.158" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s87" begin="000:02:38.039" end="000:02:38.159" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s88" begin="000:02:40.040" end="000:02:40.160" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s89" begin="000:02:43.041" end="000:02:43.162" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s90" begin="000:02:45.042" end="000:02:45.163" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s91" begin="000:02:46.043" end="000:02:46.163" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s92" begin="000:02:47.043" end="000:02:47.164" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s93" begin="000:02:49.044" end="000:02:49.165" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s94" begin="000:02:51.045" end="000:02:51.166" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s95" begin="000:02:54.047" end="000:02:54.167" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s96" begin="000:02:56.048" end="000:02:56.168" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s97" begin="000:02:57.048" end="000:02:57.169" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s98" begin="000:02:58.049" end="000:02:58.169" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s99" begin="000:03:00.050" end="000:03:00.170" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s100" begin="000:03:02.051" end="000:03:02.171" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s101" begin="000:03:05.052" end="000:03:05.173" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s102" begin="000:03:07.053" end="000:03:07.174" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s103" begin="000:03:08.054" end="000:03:08.174" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s104" begin="000:03:09.054" end="000:03:09.175" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s105" begin="000:03:11.055" end="000:03:11.176" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s106" begin="000:03:13.056" end="000:03:13.177" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s107" begin="000:03:16.058" end="000:03:16.178" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s108" begin="000:03:18.059" end="000:03:18.179" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s109" begin="000:03:19.059" end="000:03:19.180" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s110" begin="000:03:20.060" end="000:03:20.180" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s111" begin="000:03:22.061" end="000:03:22.181" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s112" begin="000:03:24.062" end="000:03:24.182" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s113" begin="000:03:27.063" end="000:03:27.184" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s114" begin="000:03:29.064" end="000:03:29.185" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s115" begin="000:03:30.065" end="000:03:30.185" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s116" begin="000:03:31.065" end="000:03:31.186" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s117" begin="000:03:33.066" end="000:03:33.187" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s118" begin="000:03:35.067" end="000:03:35.188" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s119" begin="000:03:38.069" end="000:03:38.189" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s120" begin="000:03:40.070" end="000:03:40.190" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s121" begin="000:03:41.070" end="000:03:41.191" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s122" begin="000:03:42.071" end="000:03:42.191" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s123" begin="000:03:44.072" end="000:03:44.192" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s124" begin="000:03:46.073" end="000:03:46.193" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s125" begin="000:03:49.074" end="000:03:49.195" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s126" begin="000:03:51.075" end="000:03:51.196" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s127" begin="000:03:52.076" end="000:03:52.196" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s128" begin="000:03:53.076" end="000:03:53.197" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s129" begin="000:03:55.077" end="000:03:55.198" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s130" begin="000:03:57.078" end="000:03:57.199" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s131" begin="000:04:00.080" end="000:04:00.200" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s132" begin="000:04:02.081" end="000:04:02.201" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s133" begin="000:04:03.081" end="000:04:03.202" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s134" begin="000:04:04.082" end="000:04:04.202" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s135" begin="000:04:06.083" end="000:04:06.203" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s136" begin="000:04:08.084" end="000:04:08.204" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s137" begin="000:04:11.085" end="000:04:11.206" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s138" begin="000:04:13.086" end="000:04:13.207" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s139" begin="000:04:14.087" end="000:04:14.207" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s140" begin="000:04:15.087" end="000:04:15.208" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s141" begin="000:04:17.088" end="000:04:17.209" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s142" begin="000:04:19.089" end="000:04:19.210" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s143" begin="000:04:22.091" end="000:04:22.211" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s144" begin="000:04:24.092" end="000:04:24.212" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s145" begin="000:04:25.092" end="000:04:25.213" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s146" begin="000:04:26.093" end="000:04:26.213" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s147" begin="000:04:28.094" end="000:04:28.214" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s148" begin="000:04:30.095" end="000:04:30.215" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s149" begin="000:04:33.096" end="000:04:33.217" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s150" begin="000:04:35.097" end="000:04:35.218" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s151" begin="000:04:36.098" end="000:04:36.218" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s152" begin="000:04:37.098" end="000:04:37.219" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s153" begin="000:04:39.099" end="000:04:39.220" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s154" begin="000:04:41.100" end="000:04:41.221" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s155" begin="000:04:44.102" end="000:04:44.222" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s156" begin="000:04:46.103" end="000:04:46.223" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s157" begin="000:04:47.103" end="000:04:47.224" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s158" begin="000:04:48.104" end="000:04:48.224" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s159" begin="000:04:50.105" end="000:04:50.225" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s160" begin="000:04:52.106" end="000:04:52.226" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s161" begin="000:04:55.107" end="000:04:55.228" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s162" begin="000:04:57.108" end="000:04:57.229" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s163" begin="000:04:58.109" end="000:04:58.229" region="r0"><span style="ww">XX</span></p>
+            <p xml:id="s164" begin="000:04:59.109" end="000:04:59.230" region="r0"><span style="ww">XX</span></p>
+        </div>
+    </body>
+</tt>

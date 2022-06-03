@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ebuttm="urn:ebu:tt:metadata" xmlns:ebutts="urn:ebu:tt:style" xml:lang="en" xml:space="default" ttp:timeBase="media">
+  <head>
+    <metadata>
+    	<ebuttm:documentMetadata>
+	        <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+	        <ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+   		</ebuttm:documentMetadata>
+    </metadata>
+    <styling>
+       <style xml:id="s0" tts:fontFamily="sansSerif" tts:fontSize="100%" tts:wrapOption="wrap" ebutts:linePadding="0.5c" />
+       <style xml:id="s1" tts:color="#FFFF00" tts:backgroundColor="#000000" />
+    </styling>
+    <layout>
+       <region xml:id="r0" tts:origin="10% 55%" tts:extent="80% 35%" tts:displayAlign="after" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+        <p xml:id="sub0" region="r0"><span style="s1" begin="00:00:02.000" end="00:00:20.000">Sed</span><span style="s1" begin="00:00:03.000" end="00:00:20.000"> lobortis,</span><span style="s1" begin="00:00:04.000" end="00:00:20.000"> quam</span><span style="s1" begin="00:00:05.000" end="00:00:20.000"> fermentum</span><span style="s1" begin="00:00:06.000" end="00:00:20.000"> vestibulum</span><span style="s1" begin="00:00:07.000" end="00:00:20.000"> vehicula,</span><span style="s1" begin="00:00:08.000" end="00:00:20.000"> mi</span><span style="s1" begin="00:00:09.000" end="00:00:20.000"> justo</span><span style="s1" begin="00:00:10.000" end="00:00:20.000"> elementum</span><span style="s1" begin="00:00:11.000" end="00:00:20.000"> ipsum,</span><span style="s1" begin="00:00:12.000" end="00:00:20.000"> et</span><span style="s1" begin="00:00:13.000" end="00:00:20.000"> sodales</span><span style="s1" begin="00:00:14.000" end="00:00:20.000"> ipsum</span><span style="s1" begin="00:00:15.000" end="00:00:20.000"> erat</span><span style="s1" begin="00:00:16.000" end="00:00:20.000"> et</span><span style="s1" begin="00:00:17.000" end="00:00:20.000"> purus.</span></p>
+    </div>
+  </body>
+</tt>
+
+

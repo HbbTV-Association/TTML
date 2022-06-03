@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    ttp:timeBase="media"
+    xml:lang="en" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <styling> 
+       <style xml:id="style" tts:fontFamily="sansSerif" tts:fontSize="100%" tts:lineHeight="125%" tts:color="#ffffff"
+                tts:backgroundColor="#0f0f0f" tts:textAlign="center"/>
+    </styling>
+    <layout>
+          <region xml:id="bottom" tts:origin="15% 85%" tts:extent="70% 10%"
+                 tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body> 
+    <div style="style">
+         <p begin="00:00:00.000" end="00:00:25.000" region="bottom" xml:id="s1">TTML subs, part 1</p>
+         <p begin="00:00:30.000" end="00:00:50.000" region="bottom" xml:id="s2">TTML subs, part 2</p>
+         <p begin="00:00:55.000" end="00:00:60.000" region="bottom" xml:id="s3">TTML subs, part 3</p>
+    </div>
+  </body>
+</tt>
+
+

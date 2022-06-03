@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt
+    xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:ebuttm="urn:ebu:tt:metadata"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:timeBase="media" xml:lang="en">
+    <head>
+       <metadata>
+           <ebuttm:documentMetadata>
+               <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+               <ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+           </ebuttm:documentMetadata>
+       </metadata>
+
+        <styling>
+            <style xml:id="s1" tts:backgroundColor="#FF0000" tts:color="#FFFFFF" tts:fontSize="100%"/>
+            <style xml:id="s2" tts:backgroundColor="#0000FF" tts:color="#FFFFFF" tts:fontSize="100%" tts:lineHeight="normal"/>
+        </styling>
+        <layout>
+            <region xml:id="r1" tts:origin="10% 50%" tts:extent="40% 20%" />
+            <region xml:id="r2" tts:origin="50% 50%" tts:extent="40% 20%" />
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p begin="00:00:00.000" end="00:00:10.000" xml:id="p1"  region="r1" style="s1">
+             lineHeight - is not set in this region.
+        </p>
+        </div>
+        <div region="r2">
+            <p begin="00:00:00.000" end="00:00:10.000" xml:id="p2"  region="r2" style="s2">
+             lineHeight is set to "normal".
+        </p>
+        </div>
+    </body>
+</tt>

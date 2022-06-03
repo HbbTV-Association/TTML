@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt
+    xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:ebuttm="urn:ebu:tt:metadata"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:timeBase="media" xml:lang="en">
+    <head>
+       <metadata>
+           <ebuttm:documentMetadata>
+               <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+               <ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+               </ebuttm:documentMetadata>
+        </metadata>
+        <styling>
+            <metadata>
+                <ebuttm:font fontFamilyName="Glametrix" 
+                    src="http://hbbtv1.test/_TESTSUITE/RES/CONTRIBUTORS/RT-RK/fonts/gluk_glametrix-OTF/Glametrix.otf">
+                </ebuttm:font>
+            </metadata>
+            <style xml:id="paragraphStyle" tts:color="#FFFFFF" tts:backgroundColor="#000000" tts:fontFamily="Glametrix" />
+        </styling>
+        <layout>
+            <region xml:id="bottom" tts:origin="10% 60%" tts:extent="80% 30%"/>
+        </layout>
+    </head>
+    <body>
+        <div>
+          <p  begin="00:00:00.000" xml:id="p1" end="00:00:10.000" style="paragraphStyle" region="bottom">
+              <span>
+                    This is the subtitle for test SUB0350 and it's using a downloadable font - Glametrix.
+              </span>
+          </p>
+           <p  begin="00:00:30.000" xml:id="p2" end="00:00:40.000" style="paragraphStyle" region="bottom">
+              <span>
+                    This is the subtitle for test SUB0350 and it's using a downloadable font - Glametrix.
+              </span>
+          </p>
+         </div>
+    </body>
+</tt>

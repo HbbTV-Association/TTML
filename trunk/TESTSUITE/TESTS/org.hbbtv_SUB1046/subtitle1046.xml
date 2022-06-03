@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt
+    xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:ebuttm="urn:ebu:tt:metadata"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:timeBase="media" xml:lang="en">
+    <head>
+       <metadata>
+           <ebuttm:documentMetadata>
+               <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+               <ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+           </ebuttm:documentMetadata>
+       </metadata>
+        <styling>
+            <style xml:id="paragraphStyle" tts:fontSize="100%" tts:color="#ffffff" tts:textAlign="right"/>
+            <style xml:id="regionStyle" tts:backgroundColor="#FF0000"/>
+        </styling>
+        <layout>
+            <region xml:id="bottom" tts:origin="40% 65%" tts:extent="50% 30%" style="regionStyle" tts:showBackground="whenActive" tts:displayAlign="center"/>
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p xml:id="p2" style="paragraphStyle" region="bottom">
+                <span xml:id="s2" begin="00:00:04.000" end="00:00:07.000">
+                    org.hbbtv_SUB1046
+                </span>
+            </p>
+        </div>
+    </body>
+</tt>

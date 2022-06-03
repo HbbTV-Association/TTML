@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt
+    xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:ebuttm="urn:ebu:tt:metadata"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:timeBase="media" xml:lang="en">
+    <head>
+       <metadata>
+           <ebuttm:documentMetadata>
+               <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+               <ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+           </ebuttm:documentMetadata>
+       </metadata>
+
+        <styling>
+            <style xml:id="spanStyle" tts:color="#FFFFFF"/>
+            <style xml:id="paragraphStyle" tts:fontSize="100%" tts:backgroundColor="#000000"/>
+        </styling>
+        <layout>
+            <region xml:id="r1" tts:origin="10% 60%" tts:extent="80% 30%" />
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p xml:id="subtitle1" region="r1" begin="00:00:00.000" end="00:00:20.000" style="paragraphStyle">
+                <span style="spanStyle">First line. 
+                    <br/>This is the second line in new row.
+                </span>
+            </p>
+        </div>
+    </body>
+</tt>

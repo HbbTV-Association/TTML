@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt
+    xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+    xmlns:ebuttm="urn:ebu:tt:metadata"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:timeBase="media" xml:lang="en">
+    <head>
+       <metadata>
+           <ebuttm:documentMetadata>
+               <ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+               <ebuttm:conformsToStandard>http://www.w3.org/ns/ttml/profile/imsc1/text</ebuttm:conformsToStandard>
+           </ebuttm:documentMetadata>
+       </metadata>
+        <styling>
+            <style xml:id="paragraphTopStyle" tts:fontSize="50%" tts:color="#FFFFFF" tts:backgroundColor="#FF0000"/>
+            <style xml:id="paragraphStyle" tts:fontSize="100%" tts:color="#ffffff" tts:textAlign="right"/>
+            <style xml:id="regionStyle" tts:backgroundColor="#000000"/>
+        </styling>
+        <layout>
+            <region xml:id="topSync" tts:origin="30% 30%" tts:extent="60% 25%" style="regionStyle"/>
+            <region xml:id="bottom" tts:origin="60% 60%" tts:extent="30% 40%" tts:showBackground="whenActive" style="regionStyle" tts:displayAlign="center"/>
+        </layout>
+    </head>
+    <body>
+        <div>
+            <p  begin="00:00:00.000" xml:id="p1" end="00:00:03.000" style="paragraphStyle" region="bottom">
+                1
+            </p>
+            <p begin="00:00:03.000" xml:id="tp1" end="00:00:05.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s2">
+                    Subtitle with content "2" for test DASH-ERRORREP0028 appears at "00:00:05.000" and disappears at "00:00:08.000".
+                </span>
+            </p>
+             <p  begin="00:00:05.000" xml:id="p2" end="00:00:08.000" style="paragraphStyle" region="bottom">
+                2
+            </p>
+            <p begin="00:00:08.000" xml:id="tp2" end="00:00:10.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s3">
+                    Subtitle with content "3" for test DASH-ERRORREP0028 appears at "00:00:10.000" and disappears at "00:00:13.000".
+                </span>
+            </p>
+            <p  begin="00:00:10.000" xml:id="p3" end="00:00:13.000" style="paragraphStyle" region="bottom">
+                3
+            </p>
+            <p begin="00:00:13.000" xml:id="tp3" end="00:00:15.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s4">
+                    Subtitle with content "4" for test DASH-ERRORREP0028 appears at "00:00:15.000" and disappears at "00:00:18.000".
+                </span>
+            </p>
+             <p  begin="00:00:15.000" xml:id="p4" end="00:00:18.000" style="paragraphStyle" region="bottom">
+                4
+            </p>
+            <p begin="00:00:18.000" xml:id="tp4" end="00:00:20.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s5">
+                    Subtitle with content "5" for test DASH-ERRORREP0028 appears at "00:00:20.000" and disappears at "00:00:23.000".
+                </span>
+            </p>
+            <p  begin="00:00:20.000" xml:id="p5" end="00:00:23.000" style="paragraphStyle" region="bottom">
+                5
+            </p>
+            <p begin="00:00:23.000" xml:id="tp5" end="00:00:25.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s6">
+                    Subtitle with content "6" for test DASH-ERRORREP0028 appears at "00:00:25.000" and disappears at "00:00:28.000".
+                </span>
+            </p>
+             <p  begin="00:00:25.000" xml:id="p7" end="00:00:28.000" style="paragraphStyle" region="bottom">
+                6
+            </p>
+            <p begin="00:00:28.000" xml:id="tp6" end="00:00:30.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s7">
+                    Subtitle with content "7" for test DASH-ERRORREP0028 appears at "00:00:30.000" and disappears at "00:00:33.000".
+                </span>
+            </p>
+            <p  begin="00:00:30.000" xml:id="p8" end="00:00:33.000" style="paragraphStyle" region="bottom">
+                7
+            </p>
+            <p begin="00:00:33.000" xml:id="tp7" end="00:00:35.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s8">
+                    Subtitle with content "8" for test DASH-ERRORREP0028 appears at "00:00:35.000" and disappears at "00:00:38.000".
+                </span>
+            </p>
+             <p  begin="00:00:35.000" xml:id="p9" end="00:00:38.000" style="paragraphStyle" region="bottom">
+                8
+            </p>
+            <p begin="00:00:38.000" xml:id="tp8" end="00:00:40.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s9">
+                    Subtitle with content "9" for test DASH-ERRORREP0028 appears at "00:00:40.000" and disappears at "00:00:43.000".
+                </span>
+            </p>
+             <p  begin="00:00:40.000" xml:id="p10" end="00:00:43.000" style="paragraphStyle" region="bottom">
+                9
+            </p>
+            <p begin="00:00:43.000" xml:id="tp9" end="00:00:45.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s10">
+                    Subtitle with content "10" for test DASH-ERRORREP0028 appears at "00:00:45.000" and disappears at "00:00:48.000".
+                </span>
+            </p>
+             <p  begin="00:00:45.000" xml:id="p11" end="00:00:48.000" style="paragraphStyle" region="bottom">
+                10
+            </p>
+            <p begin="00:00:48.000" xml:id="tp10" end="00:00:50.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s11">
+                    Subtitle with content "11" for test DASH-ERRORREP0028 appears at "00:00:50.000" and disappears at "00:00:53.000".
+                </span>
+            </p>
+            <p  begin="00:00:50.000" xml:id="p12" end="00:00:53.000" style="paragraphStyle" region="bottom">
+                11
+            </p>
+            <p begin="00:00:53.000" xml:id="tp11" end="00:00:55.000" style="paragraphTopStyle" region="topSync">
+                <span xml:id="s12">
+                    Subtitle with content "12" for test DASH-ERRORREP0028 appears at "00:00:55.000" and disappears at "00:00:58.000".
+                </span>
+            </p>
+             <p  begin="00:00:55.000" xml:id="p13" end="00:00:58.000" style="paragraphStyle" region="bottom">
+                12
+            </p>
+        </div>
+    </body>
+</tt>
